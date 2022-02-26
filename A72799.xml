@@ -1,0 +1,1897 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A generall or great bill for this yeere of the whole number of burials, which haue beene buried of all diseases, and also of the plague in the citie of Westminster, Lambeth, Newington, Stepney, Hackney and Islington: from Thursday the 30. of December, 1624. to Thursday the 22. of December, 1625. According to the report made by the parish clarkes of the said parishes.</title>
+            <title>Bills of mortality. 1624-12-30 to 1625-12-22</title>
+            <author>Worshipful Company of Parish Clerks.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72799</idno>
+            <idno type="STC">STC 16741.7</idno>
+            <idno type="STC">ESTC S125100</idno>
+            <idno type="EEBO-CITATION">99898848</idno>
+            <idno type="PROQUEST">99898848</idno>
+            <idno type="VID">151053</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72799)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151053)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1997:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A generall or great bill for this yeere of the whole number of burials, which haue beene buried of all diseases, and also of the plague in the citie of Westminster, Lambeth, Newington, Stepney, Hackney and Islington: from Thursday the 30. of December, 1624. to Thursday the 22. of December, 1625. According to the report made by the parish clarkes of the said parishes.</title>
+                  <title>Bills of mortality. 1624-12-30 to 1625-12-22</title>
+                  <author>Worshipful Company of Parish Clerks.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by William Stansby,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1625.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A list of mortalities and plague within parishes of Westminster, Lambeth, Newington, etc.</note>
+                  <note>This edition includes "The true report of all those that died of all diseases, ..." and "The true report of all the burials in the Vniuersitie of Oxford." printed in the right-hand margin; the imprint is in the lower right-hand corner of sheet.</note>
+                  <note>Formerly STC 25287.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Mortality --  England --  London --  Statistics --  Early works to 1800.</term>
+               <term>Plague --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>London (England) --  Statistics, Vital --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table_of_burials">
+            <pb facs="tcp:151053:1" rendition="simple:additions"/>
+            <head>A Generall or great Bill for this Yeere, of the whole Number of Burials, which haue beene buried of all Diſeaſes, and alſo of the Plague in the Citie of <hi>Weſtminſter, Lambeth, Newington, Stepney, Hackney</hi> and <hi>Iſlington:</hi> from Thurſday the 30. of <hi>December,</hi> 1624. to Thurſday the 22. of December, 1625. <hi>According to the Report made by the Pariſh Clarkes of the ſaid Pariſhes.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Weſtminſter,</hi>
+                     </cell>
+                     <cell role="label">Buried in all</cell>
+                     <cell role="label">Of the Plague.</cell>
+                  </row>
+                  <row>
+                     <cell>December 30</cell>
+                     <cell>9</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 6</cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 13</cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 20</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 27</cell>
+                     <cell>13</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 3</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 10</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 17</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 24</cell>
+                     <cell>13</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 3</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 10</cell>
+                     <cell>12</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 17</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 24</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 31</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 7</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 14</cell>
+                     <cell>13</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 21</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 28</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 5</cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 12</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 19</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 26</cell>
+                     <cell>20</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 2</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 9</cell>
+                     <cell>13</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 16</cell>
+                     <cell>19</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 23</cell>
+                     <cell>24</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 30</cell>
+                     <cell>33</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 7</cell>
+                     <cell>43</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 14</cell>
+                     <cell>65</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 21</cell>
+                     <cell>89</cell>
+                     <cell>55</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 28</cell>
+                     <cell>114</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 4</cell>
+                     <cell>125</cell>
+                     <cell>97</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 11</cell>
+                     <cell>138</cell>
+                     <cell>116</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 18</cell>
+                     <cell>181</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 25</cell>
+                     <cell>137</cell>
+                     <cell>121</cell>
+                  </row>
+                  <row>
+                     <cell>September 1</cell>
+                     <cell>193</cell>
+                     <cell>164</cell>
+                  </row>
+                  <row>
+                     <cell>September 8</cell>
+                     <cell>175</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>September 15</cell>
+                     <cell>189</cell>
+                     <cell>167</cell>
+                  </row>
+                  <row>
+                     <cell>September 22</cell>
+                     <cell>167</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>September 29</cell>
+                     <cell>116</cell>
+                     <cell>91</cell>
+                  </row>
+                  <row>
+                     <cell>October 6</cell>
+                     <cell>85</cell>
+                     <cell>65</cell>
+                  </row>
+                  <row>
+                     <cell>October 13</cell>
+                     <cell>96</cell>
+                     <cell>77</cell>
+                  </row>
+                  <row>
+                     <cell>October 20</cell>
+                     <cell>71</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>October 27</cell>
+                     <cell>42</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 3</cell>
+                     <cell>35</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 10</cell>
+                     <cell>30</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 17</cell>
+                     <cell>34</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 24</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>December 1</cell>
+                     <cell>9</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>December 8</cell>
+                     <cell>14</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>December 15</cell>
+                     <cell>14</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>December 22</cell>
+                     <cell>17</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>The total of al that haue beene Buried in</hi> Weſt<g ref="char:EOLhyphen"/>minſter <hi>this Yeere, is</hi> 2540</p>
+            <p>
+               <hi>Whereof of the Plague</hi>—1669.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Lambeth,</hi>
+                     </cell>
+                     <cell role="label">Buried in all</cell>
+                     <cell role="label">Of the Plague.</cell>
+                  </row>
+                  <row>
+                     <cell>December 30</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 6</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 13</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 20</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 27</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 3</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 10</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 17</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 24</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 3</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 10</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 17</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 24</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 31</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 7</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 14</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 21</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 28</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 5</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 12</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 19</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 26</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 2</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 9</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 16</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 23</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 30</cell>
+                     <cell>8</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 7</cell>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 14</cell>
+                     <cell>9</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 21</cell>
+                     <cell>16</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 28</cell>
+                     <cell>16</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 4</cell>
+                     <cell>25</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 11</cell>
+                     <cell>32</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 18</cell>
+                     <cell>39</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 25</cell>
+                     <cell>56</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>September 1</cell>
+                     <cell>44</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>September 8</cell>
+                     <cell>47</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>September 15</cell>
+                     <cell>47</cell>
+                     <cell>31</cell>
+                  </row>
+                  <row>
+                     <cell>September 22</cell>
+                     <cell>52</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell>September 29</cell>
+                     <cell>22</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>October 6</cell>
+                     <cell>32</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>October 13</cell>
+                     <cell>15</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>October 20</cell>
+                     <cell>17</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>October 27</cell>
+                     <cell>13</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 3</cell>
+                     <cell>13</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 10</cell>
+                     <cell>11</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 17</cell>
+                     <cell>12</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 24</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>December 1</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>December 8</cell>
+                     <cell>5</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>December 15</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>December 22</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>The Totall of all that haue beene Buried in</hi> Lam<g ref="char:EOLhyphen"/>beth <hi>this Yeere, is</hi>—631</p>
+            <p>
+               <hi>Whereof of the Plague</hi>—389.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Newington,</hi>
+                     </cell>
+                     <cell role="label">Buried in all</cell>
+                     <cell role="label">Of the Plague</cell>
+                  </row>
+                  <row>
+                     <cell>December 30</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 6</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 13</cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 20</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 27</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 3</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 10</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 17</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 24</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 3</cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 10</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 17</cell>
+                     <cell>9</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 24</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 31</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 7</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 14</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 21</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 28</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 5</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 12</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 19</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 26</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 2</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 9</cell>
+                     <cell>8</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 16</cell>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 23</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 30</cell>
+                     <cell>20</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 7</cell>
+                     <cell>34</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 14</cell>
+                     <cell>37</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 21</cell>
+                     <cell>66</cell>
+                     <cell>49</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 28</cell>
+                     <cell>74</cell>
+                     <cell>55</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 4</cell>
+                     <cell>84</cell>
+                     <cell>68</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 11</cell>
+                     <cell>86</cell>
+                     <cell>65</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 18</cell>
+                     <cell>66</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 25</cell>
+                     <cell>47</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>September 1</cell>
+                     <cell>32</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>September 8</cell>
+                     <cell>26</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>September 15</cell>
+                     <cell>22</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>September 22</cell>
+                     <cell>22</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>September 29</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>October 6</cell>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>October 13</cell>
+                     <cell>11</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>October 20</cell>
+                     <cell>9</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>October 27</cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 3</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 10</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 17</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 24</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>December 1</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>December 8</cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>December 15</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>December 22</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>The Totall of all that haue been buried in</hi> Newing<g ref="char:EOLhyphen"/>ton, <hi>this Yeere, is</hi>—864.</p>
+            <p>
+               <hi>Whereof of the Plague</hi> 430.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Septney,</hi>
+                     </cell>
+                     <cell role="label">Buried in all</cell>
+                     <cell role="label">Of the Plague.</cell>
+                  </row>
+                  <row>
+                     <cell>December 30</cell>
+                     <cell>13</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 6</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 13</cell>
+                     <cell>22</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 20</cell>
+                     <cell>19</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 27</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 3</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 10</cell>
+                     <cell>25</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 17</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 24</cell>
+                     <cell>22</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 3</cell>
+                     <cell>
+                        <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 10</cell>
+                     <cell>13</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 17</cell>
+                     <cell>20</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 24</cell>
+                     <cell>20</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 31</cell>
+                     <cell>23</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 7</cell>
+                     <cell>21</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 14</cell>
+                     <cell>20</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 21</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 28</cell>
+                     <cell>21</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 5</cell>
+                     <cell>26</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>May 12</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 19</cell>
+                     <cell>29</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>May 26</cell>
+                     <cell>
+                        <gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 2</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 9</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 16</cell>
+                     <cell>
+                        <gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 23</cell>
+                     <cell>7</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 30</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>1</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 7</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>2</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 14</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </cell>
+                     <cell>104</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 21</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>1</cell>
+                     <cell>140</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 28</cell>
+                     <cell>228</cell>
+                     <cell>207</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 4</cell>
+                     <cell>2<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>4</cell>
+                     <cell>255</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 11</cell>
+                     <cell>253</cell>
+                     <cell>240</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 18</cell>
+                     <cell>341</cell>
+                     <cell>328</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 25</cell>
+                     <cell>299</cell>
+                     <cell>284</cell>
+                  </row>
+                  <row>
+                     <cell>September 1</cell>
+                     <cell>291</cell>
+                     <cell>278</cell>
+                  </row>
+                  <row>
+                     <cell>September 8</cell>
+                     <cell>
+                        <gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>1</cell>
+                     <cell>257</cell>
+                  </row>
+                  <row>
+                     <cell>September 15</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </cell>
+                     <cell>184</cell>
+                  </row>
+                  <row>
+                     <cell>September 22</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </cell>
+                     <cell>144</cell>
+                  </row>
+                  <row>
+                     <cell>September 29</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </cell>
+                     <cell>97</cell>
+                  </row>
+                  <row>
+                     <cell>October 6</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </cell>
+                     <cell>78</cell>
+                  </row>
+                  <row>
+                     <cell>October 13</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </cell>
+                     <cell>57</cell>
+                  </row>
+                  <row>
+                     <cell>October 20</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>October 27</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>8</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 3</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>8</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 10</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>5</cell>
+                     <cell>31</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 17</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 24</cell>
+                     <cell>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>8</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>December 1</cell>
+                     <cell>8</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>December 8</cell>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>December 15</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>December 22</cell>
+                     <cell>7</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>The Totall of all th<gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ue beene Buried in</hi> Ste<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ney <hi>this Yeere, is</hi>—4089.</p>
+            <p>
+               <hi>Whereof of the Plague</hi>—3022.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Hackney,</hi>
+                     </cell>
+                     <cell role="label">Buried in all</cell>
+                     <cell role="label">Of the Plague</cell>
+                  </row>
+                  <row>
+                     <cell>December 30</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 6</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 13</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 20</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 27</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 3</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 10</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 17</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 24</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 3</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 10</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 17</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 24</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 31</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 7</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 14</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 21</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 28</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 5</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 12</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 19</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 26</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 3</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 9</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 16</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 23</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 30</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 7</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 14</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 21</cell>
+                     <cell>5</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 28</cell>
+                     <cell>15</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 4</cell>
+                     <cell>14</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 11</cell>
+                     <cell>27</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 18</cell>
+                     <cell>23</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 25</cell>
+                     <cell>27</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>September 1</cell>
+                     <cell>20</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>September 8</cell>
+                     <cell>19</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>September 15</cell>
+                     <cell>10</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>September 22</cell>
+                     <cell>14</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>September 29</cell>
+                     <cell>20</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>October 6</cell>
+                     <cell>12</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>October 13</cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>October 20</cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>October 27</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 3</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 10</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 17</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 24</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>December 1</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>December 8</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>December 15</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>December 22</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>The Totall of all that haue been Buried in</hi> Hackney <hi>this Yeere, is</hi>—270</p>
+            <p>
+               <hi>Whereof of the Plague</hi>—171</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Iſlington.</hi>
+                     </cell>
+                     <cell role="label">Buried in all</cell>
+                     <cell role="label">Of the Plague.</cell>
+                  </row>
+                  <row>
+                     <cell>December 30</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 6</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 13</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 20</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Ianuary 27</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 3</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 10</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 17</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>February 24</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 3</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 10</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 17</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 24</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>March 31</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 7</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 14</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 21</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Aprill 28</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 5</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 12</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 19</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 26</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 2</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 9</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 16</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 23</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iune 30</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 7</cell>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 14</cell>
+                     <cell>10</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 21</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Iuly 28</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 4</cell>
+                     <cell>20</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 11</cell>
+                     <cell>21</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 18</cell>
+                     <cell>31</cell>
+                     <cell>31</cell>
+                  </row>
+                  <row>
+                     <cell>Auguſt 25</cell>
+                     <cell>29</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>September 1</cell>
+                     <cell>33</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>September 8</cell>
+                     <cell>22</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>September 15</cell>
+                     <cell>19</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>September 22</cell>
+                     <cell>24</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>September 29</cell>
+                     <cell>15</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>October 6</cell>
+                     <cell>17</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>October 13</cell>
+                     <cell>16</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>October 20</cell>
+                     <cell>7</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>October 27</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 3</cell>
+                     <cell>9</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 10</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 17</cell>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Nouember 24</cell>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>December 1</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>December 8</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>December 15</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>December 22</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>The Totall of all that haue been Buried in</hi> Iſlington <hi>this Yeere, is</hi>—342</p>
+            <p>
+               <hi>Whereof of the Plague</hi>—242</p>
+            <p>The Totals of theſe ſixe Pariſhes—8736.</p>
+            <p>Whereof of the Plague—5896.</p>
+            <p>The whole number that hath beene Buried in all, both within <hi>London</hi> and th<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Liberties, with the Citie of <hi>Westminſter, Lambeth, Newington, Stepney, Hackney, Iſlington,</hi> this yeere <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>all, Is—63001.</p>
+            <p>Whereof the number of Plague, is—41313.</p>
+         </div>
+         <div type="report">
+            <head>1602. 1603. The true report of all thoſe <hi>that Died of all Diſeaſes, in</hi> the City of <hi>Weſtminſter, Lambeth Newington, Sauoy, Stepney, Hackney and Iſlington,</hi> in the great Viſitation, 23. yeeres ſince, <hi>viz.</hi> in <hi>Anno</hi> 1602. and 1603.</head>
+            <p>Buried in Weſtminſter, from the 14. Iuly to the 15. of December, in the whole number, 1019. where<g ref="char:EOLhyphen"/>of of the Plague, 879.</p>
+            <p>Buried in Lambeth, 410. Whereof of the Plague, 387.</p>
+            <p>Buried at Newington-buts, from the 14. of Iune, to the 15. of Decem<g ref="char:EOLhyphen"/>ber, in all, 657. Whereof of the Plague, 577.</p>
+            <p>Buried in the Sauoy, from the firſt of Iune to the 15. of December, in the whole number, 211. Whereof of the Plague, 196.</p>
+            <p>Buried in the Pariſh of Stepney, from the 25. of March, to the 15. of De<g ref="char:EOLhyphen"/>cember, in the whole, 2129. Whereof of the Plague, 2059.</p>
+            <p>Buried at Hackney, 210. Whereof of the Plague, 187.</p>
+            <p>Buried in Iſlington, 274. Whereof of the Plague, 239.</p>
+            <p>
+               <hi>Buried in all, within the</hi> 7. <hi>ſeuerall places laſt afore named,</hi> 4910. <hi>Whereof of the Plague,</hi> 4526.</p>
+            <p>The totall of all that were Buried, both within London and the Li<g ref="char:EOLhyphen"/>berties, and the 7. other ſeuerall places before mentioned, is 43411.</p>
+            <p>Whereof the whole number of the Plague, is—37054.</p>
+         </div>
+         <div type="report">
+            <head>The true Report of all the Burials in the Vniuerſitie of <hi>Ox<g ref="char:EOLhyphen"/>ford. From the</hi> 21. <hi>of Iuly,</hi> to the 29. of December, 1625.</head>
+            <p>Buried in <hi>Oxford</hi> in the totall,mdash;263.</p>
+            <p>Whereof of the Plaguemdash;172.</p>
+            <p>Pariſhes that were not Infectedmdash;5.</p>
+            <p>Pariſhes cleare10.</p>
+            <p>
+               <hi>All Colledges cleare, and all Halls cleare.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed by WILLIAM <hi>Stansb<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> 1625.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
